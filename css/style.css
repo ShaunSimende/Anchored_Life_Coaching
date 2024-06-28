@@ -57,7 +57,7 @@ body {
   width: 60px;
   height: 7px;
   border-radius: 10px;
-  background-color: #f8bc1a;
+  background-color:  #1d0584;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
@@ -65,8 +65,8 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 0))), url(../images/hero-bg.jpg);
-  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../images/hero-bg.jpg);
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 0))), url(../images/hero_bg_1.jpg);
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url(../images/hero_bg_1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right bottom;
@@ -120,7 +120,7 @@ body {
 
 .custom_nav2 .custom_nav-container {
   padding: 5px 0;
-  background-color: #f8bc1a;
+  background-color: #1d0584;
   -webkit-clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
           clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
 }
@@ -219,7 +219,7 @@ a:focus {
 /* slider section */
 .slider_section {
   height: calc(100% - 80px);
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/hero_bg_2.jpg);
   background-size: cover;
 }
 
@@ -238,7 +238,7 @@ a:focus {
 }
 
 .slider_section .detail-box h2 {
-  color: #f8bc1a;
+  color:  #1d0584;
 }
 
 .slider_section .detail-box h1 {
@@ -271,14 +271,14 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 7px 0;
-  background-color: #f8bc1a;
-  border: 1px solid #f8bc1a;
+  background-color:  #1d0584;
+  border: 1px solid  #1d0584;
   color: #ffffff;
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
   background-color: transparent;
-  color: #f8bc1a;
+  color:  #1d0584;
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
@@ -313,14 +313,14 @@ a:focus {
   height: 14px;
   opacity: 1;
   background-color: transparent;
-  border: 2px solid #f8bc1a;
+  border: 2px solid #1d0584;
   border-radius: 100%;
 }
 
 .slider_section .carousel-indicators li.active {
   width: 18px;
   height: 18px;
-  border: 3px solid #f8bc1a;
+  border: 3px solid  #1d0584;
 }
 
 .slider_section .number_box {
@@ -338,7 +338,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #f8bc1a;
+  color:  #1d0584;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -347,7 +347,7 @@ a:focus {
   border: none;
   width: 1px;
   height: 200px;
-  background-color: #f8bc1a;
+  background-color:  #1d0584;
   margin: 2rem 0;
 }
 
